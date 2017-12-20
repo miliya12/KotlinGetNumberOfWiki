@@ -1,4 +1,4 @@
-package tech.miliya.kotlinrategatter
+package tech.miliya.kotlin_get_number_of_wiki
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
